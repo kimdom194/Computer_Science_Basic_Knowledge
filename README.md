@@ -1,4 +1,4 @@
-# Computer-Science-Basic-Knowledge
+# Computer Science Basic Knowledge
 
 - 컴퓨터 공학 기초 & 신입 개발자가 현업에서 알아야 할 항목 입니다.
 
