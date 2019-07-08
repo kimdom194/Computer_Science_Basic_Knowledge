@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ratio": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\TAE\\Anaconda3\\python.exe",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
